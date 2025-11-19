@@ -39,3 +39,4 @@ Denna uppgift innehåller en rad funktioner som saknar unit-tester. Studera funk
 - Installera `@vitest/coverage-v8` som dev dependency
 - Lägg till `"coverage": "vitest run --coverage"` som skript
 - Kör skriptet och kolla hur hög "test coverage" testerna har. Försök att komma till 100% på "lines", "funcs" etc.
+- Öppna `index.html` inuti `coverage`-mappen som nu har skapats för att få en mer detaljerad översikt i UI:t som genererats
