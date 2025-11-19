@@ -8,6 +8,7 @@ Denna uppgift innehåller en rad funktioner som saknar unit-tester. Studera funk
 
    - Initiera NPM med `npm init -y`
    - Installera dev dependencyn `vitest`
+   - Ändra värdet i `"type":` från `"commonjs"` till `"module"`
    - Lägg till skriptet `"test": "vitest --watch"`
      - Med eller utan watch-flaggan beroende på om du vill att testerna körs om varje gång du sparar en ändring.
      - Om det redan finns ett testskript ersätter man bara dess värde med `"vitest --watch"`
